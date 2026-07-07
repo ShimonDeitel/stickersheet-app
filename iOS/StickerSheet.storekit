@@ -1,0 +1,29 @@
+{
+  "identifier": "stickersheet",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "stickersheet_pro",
+      "localizations": [
+        {
+          "description": "Unlimited stickers and a sheet-layout planner",
+          "displayName": "Sticker Sheet Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "stickersheet_pro",
+      "referenceName": "Sticker Sheet Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
